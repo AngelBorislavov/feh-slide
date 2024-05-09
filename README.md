@@ -1,0 +1,1 @@
+Feh fork, is making all of yours wallpapers from /home/Pictures directory desktop background and slide them every 60 sec To work you have to put your pics in /home/Pictures directory and having feh on your machine.Exec the install.sh file for easy install
